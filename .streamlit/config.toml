@@ -1,0 +1,22 @@
+[server]
+# 明确指定页面目录
+folderWatchList = ["pages"]
+
+[global]
+# 启用调试模式
+showWarningOnDirectExecution = true
+
+[browser]
+# 设置默认启动页面（可选）
+# defaultPage = "main.py"
+
+[logger]
+# 设置日志级别为调试
+level = "debug"
+
+[theme]
+# 主题配置
+primaryColor = "#1f77b4"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"

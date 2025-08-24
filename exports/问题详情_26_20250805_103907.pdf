@@ -1,0 +1,91 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>问题详情报告</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .header { text-align: center; margin-bottom: 30px; }
+        .section { margin-bottom: 20px; }
+        .section-title { font-size: 18px; font-weight: bold; color: #333; margin-bottom: 10px; }
+        .info-row { margin-bottom: 8px; }
+        .label { font-weight: bold; color: #666; }
+        .value { color: #333; }
+        .comment { background: #f9f9f9; padding: 10px; margin-bottom: 10px; border-radius: 5px; }
+        .processing { background: #e3f2fd; padding: 10px; margin-bottom: 10px; border-radius: 5px; }
+        .file { background: #f3e5f5; padding: 8px; margin-bottom: 5px; border-radius: 3px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>问题详情报告</h1>
+        <p>生成时间: 2025-08-05 10:39:07</p>
+    </div>
+    
+    <div class="section">
+        <div class="section-title">基本信息</div>
+        <div class="info-row">
+            <span class="label">问题ID:</span>
+            <span class="value">26</span>
+        </div>
+        <div class="info-row">
+            <span class="label">标题:</span>
+            <span class="value">优化薪酬结构，增加福利费用</span>
+        </div>
+        <div class="info-row">
+            <span class="label">分类:</span>
+            <span class="value">生活福利类</span>
+        </div>
+        <div class="info-row">
+            <span class="label">状态:</span>
+            <span class="value">待处理</span>
+        </div>
+        <div class="info-row">
+            <span class="label">优先级:</span>
+            <span class="value">普通</span>
+        </div>
+        <div class="info-row">
+            <span class="label">发布人:</span>
+            <span class="value">匿名用户</span>
+        </div>
+        <div class="info-row">
+            <span class="label">发布时间:</span>
+            <span class="value">2025年08月05日 08:57</span>
+        </div>
+    </div>
+    
+    <div class="section">
+        <div class="section-title">问题描述</div>
+        <div class="value"></div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">留言记录</div>
+
+        <div class="comment">
+            <div><strong>匿名用户</strong> - 2025-08-05 09:51:27</div>
+            <div>12335555</div>
+        </div>
+
+        <div class="comment">
+            <div><strong>系统管理员</strong> - 2025-08-05 09:52:55</div>
+            <div>具名留言内容</div>
+        </div>
+
+        <div class="comment">
+            <div><strong>匿名用户</strong> - 2025-08-05 10:12:14</div>
+            <div>3333333333333</div>
+        </div>
+
+    <div class="section">
+        <div class="section-title">附件文件</div>
+
+        <div class="file">
+            <div>3.中央八项规定及其实施细则精神.docx</div>
+            <div>大小: 20588 bytes</div>
+            <div>类型: application/vnd.openxmlformats-officedocument.wordprocessingml.document</div>
+        </div>
+
+</body>
+</html>
